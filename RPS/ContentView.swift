@@ -102,7 +102,6 @@ struct ContentView: View {
                             Text("and want you to")
                             randomIntWinOrLoose == 0 ?
                             Text("loose").foregroundStyle(Color.white) : Text("win").foregroundStyle(Color.white)
-                                
                         }
                     }
                     
